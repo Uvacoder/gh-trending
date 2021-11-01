@@ -1,7 +1,6 @@
 //
 // Components
 //
-@import 'avatar';
 
 // Primer core modules
 @import '~@primer/css/base/index.scss';
@@ -42,3 +41,6 @@
 
 // Utilities always go last so that they can override components
 @import 'utilities';
+
+// Custom components
+@import 'avatar';
